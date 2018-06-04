@@ -1,0 +1,18 @@
+
+Precisely one year past at the 55th Venice Biennial
+As part of the joint Cypriot-Lithuanian pavilion
+Which was titled big-O little-o, and equally little-o big-O,
+Depending on your point of view (depending on your point of view)
+We were asked to participate ‘as honorary Lithuanians’
+By Raimundas Malašauskas, who assembled the whole show
+In the Brutalist Palasport—a monumental sports hall with
+A central court for basketball flanked by rows of concrete bleachers.
+Our idea was then to hijack the court’s two opposing scoreboards
+And turn them into dual clocks (though you’d never see both at once).
+These clocks would count time not by means of normal decimal numbers,
+But using big-Os and small-os, that binary character set.
+We sent along instructions to the scoreboard’s manufacturer
+To burn a microchip that would alter its usual function
+And reprogram the system to display this maladjusted time,
+Then christened it Work-in-Progress — in order to be continued
+

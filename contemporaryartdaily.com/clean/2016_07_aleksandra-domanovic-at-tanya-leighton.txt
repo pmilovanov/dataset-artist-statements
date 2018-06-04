@@ -1,0 +1,87 @@
+
+Last October, I visited a panel discussion in New York focusing on the potential applications of CRISPR/Cas9, a new genome-editing tool that has been called the ‘Model T of genetics,’ in terms of its potential to create a widespread revolution in bioengineering. Like the Ford Model T, CRISPR is not the first technology of its kind, but it transformed the landscape by making a complex tool cheap and reliable.
+
+During the panel, evolutionary biologist Kevin Esvelt, who calls himself an ‘evolutionary sculptor,’ tried to explain the capabilities of CRISPR technology to the audience with an example. “This means that if a rich guy’s daughter wants a unicorn for her birthday, we can do that!” At that point, an audience member asked, “What about bulls without horns?” Molecular biologist Jennifer Doundna replied, “That is already being done.”
+
+
+The following text is a transcript of an interview I made on 24 March 2016 with Alison Van Eenennaam, an animal geneticist at UC Davis in California who is currently working with the first two bulls to have been genetically edited so they grow no horns.
+
+
+Aleksandra Domanović: In layman’s terms, please can you explain how these two bulls, Spotigy and Buri, came into existence?
+
+
+Alison Van Eenennaam: These two are Holstein bulls that have a change in one of the genes in their DNA. This was done using a tool called a TALEN – a nuclease that basically acts as a pair of molecular scissors – which goes in and cuts the DNA at exactly the location that we tell it to. We told it to cut the gene that grows horns in dairy cattle. We wanted to replace the allele (or variant) of the gene that is present in dairy cattle with that of beef cattle. So we went in and tweaked that gene so that it’s now the allele that’s found in beef cattle – Angus cattle – and so, therefore, they are naturally not going to grow horns. They’re genetically de-horned.
+
+
+But how do you know which gene is responsible for which trait?
+
+
+The bovine genome has been sequenced, and researchers have been mapping different traits to genes in different locations in the genome for years.
+
+
+How do they map this? This is what has always fascinated me.
+
+
+So that’s going back to old school. Let’s just say you’ve got 100 animals that are horned and 100 animals that don’t have horns, and you compare their DNA sequence. Normally, you will see a random 50/50 split between big ‘A’ and little ‘a’ alleles at all locations in the genome. But when you get to the end of the chromosome that has the gene that grows horns, you will see that all of the animals that don’t grow horns have an ‘A’ allele, and all of the ones that do grow horns have two copies of the ‘a’ allele. And that’s a sign that you’re near the gene – or in the region – that’s associated with the trait of interest. It’s a little more complicated than a single DNA nucleotide that makes the ‘a’ allele. It’s actually more like a couple of hundred nucleotides, but the concept is replacing the ‘a’ allele with the ‘A’ allele that doesn’t grow horns. And then of course, those bulls will pass that ‘A’ allele onto their offspring; the same way I passed blue eyes onto my children.
+
+
+How were these clones produced?
+
+
+These bulls were produced by doing genome editing in cell culture. We collaborated on this project with a company called Recombinetics, and they worked in cell culture to use TALENs to replace the allele that grows horns with the allele that doesn’t grow horns – the one from Angus. Once they had confirmed that they had successfully replaced the allele and made sure that that the swap had happened, they then cloned cells from the culture dish to grow into the two bulls.
+
+
+It’s confusing to me because I thought that clones would always be 100% identical.
+
+
+Well, have you ever seen identical twins? I mean, they’re never 100% identical either. And the thing that’s a little bit confusing about black and white Holsteins is that their exact color pattern is determined by the migration of the cells during embryo genesis; they have the same amount of black and white, but it might be distributed a little bit differently. So, you’ll see they both have spots on their heads kind of where their horns would be, which is just serendipity, it’s not because of anything that we did with the genetic dehorning. That’s why I named him Spotigy! But you’ll see the spots are not quite the same and the coat patterns are not quite identical. But they’re generally similar, so they have about the same amount of black and white.
+
+
+Why are horned cattle desirable? What are the main issues?
+
+
+The main issues with domesticated animals with horns are that they hurt each other and they also hurt their human handlers. And so, if you look back in time before dehorning was done, people got gored by animals, and animals got gored by other animals from the horns. The horns obviously had a historical purpose when cattle were running in the wild and fending off wolves or other predators, but now they’re actually quite a health risk to both animals and the people. That’s really the reason they’re almost routinely removed from animals in the dairy industry globally. And it’s just kind of unfortunate that the best dairy genetics happens to have the horned phenotype – there’s no reason cattle have to have horns, this characteristic just kind of hitchhiked along with the good dairy genetics.
+
+
+So, as a breeder I see genetics as a better solution to the problem than cutting or burning off their horns. In the same way, I see breeding for disease resistance as a better and more animal-friendly solution to disease, rather than having sick animals that require treatment with antibiotics. To me, genetics offer a more sustainable and permanent approach to address problems in livestock production systems, and that’s my interest.
+
+
+I read that bulls with horns are more virile and that’s why they are preferable. But that is not the case, right?
+
+
+Well, there’s a little bit of history in the development of dairy breeds, where animals that had better dairy genetics also happened to be carrying the ‘a’ allele at the horn gene and so they had horns. But it’s not because there is causal relationship between horns and milk production. There’s a potential for confusion between correlation and causation, like, “Oh, when I look, all of the good dairy genetic bulls have horns, therefore horns must make good dairy genetics.” But no, no, no – that’s called a spurious correlation. The horned ‘a’ allele was a genetic hitchhiker along with the genes for high milk production, it did not cause it. And if you actually do what we did, which is replace the ‘a’ allele with the ‘A’ allele at the horned gene, we didn’t change the dairy genetic merit of those animals in any other way, we just made it so they don’t grow horns.
+
+
+Could these genetic modifications also have been done with CRISPRs?
+
+
+Yes. CRISPRs, like TALENs, are ‘site-directed nucleases.’ That means that you can direct the nuclease to a specific site in the genome where you want it to perform a double-stranded cut in the DNA double helix. So, if I tell it I want it to go to chromosome 10, base-pair number 6,533, which has this particular sequence and make a double-stranded cut, I can do that. I can use TALENs to do it, I can use CRISPRs, or I can use Zinc-finger Nucleases. If we look at the efficiency of doing that, and the ease of doing that and the cost of doing that, the most expensive and difficult is ZFNs, and then
+
+
+
+TALENs, and then CRISPRs. And that’s part of the reason that CRISPRs have become so widely talked about, and become all the buzz. Because they’re relatively inexpensive to design and effective, and this has really democratized this type of technology.
+
+
+I’ve been following the development of CRISPR/Cas9 technology for a couple of years now. What initially caught my attention was that there are two women leading the field, Jennifer Doudna and Emmanuelle Charpentier. What has your experience being a woman in science been like?
+
+
+Well it’s been challenging, but not as challenging as it was for my predecessors, who frequently had to make the choice to forgo having children to pursue a career in science. Scientific progress and the discoveries being generated in competing laboratories do not stop for maternity leave or child rearing. If you take too much time off, you risk your science falling behind. My two sons are now teenagers, but balancing my work and child rearing in their early years was extremely challenging. Yes, I have a bit of a crazy work/life balance, but I have always thought that term was a misnomer. Work is not a separate activity to be weighed against life, it is a really important part of life. To me work, life, family, leisure, kids, all are just one big jumbled mess. I love the intellectual freedom my career offers me, and find great satisfaction in using science and innovation to try to solve problems. I have faced some sexism and obstacles as a woman, but I just get on with the job and try not to let it hold me back.
+
+
+Another leading figure in genetics that I have been researching is James Watson. Actually, I first read about him when he was excommunicated from the scientific community and auctioned off his Nobel Prize medal for millions of dollars. He said he wanted to use that money to buy, among other things, a David Hockney painting. But I was wondering if you could talk about another aspect of Watson: his connection to Rosalind Franklin, who was one of the co-discoverers of the structure of DNA?
+
+
+Rosalind Franklin was an English chemist and X-ray crystallographer who was supervising a PhD student who took the famous X-ray photograph that suggested a double-helix structure of DNA. There is some controversy as to whether that photo was shown to Jim Watson and Francis Crick without Franklin’s knowledge prior to their famous 1953 paper detailing the proposed structure of DNA. Regardless, her name was not acknowledged in their 1962 Nobel Prize acceptance speeches. Rosalind Franklin died in 1958 of ovarian cancer, at the tender age of 37.
+
+
+I think the thing that is interesting in the discussions around Rosalind Franklin are the many references to her appearance and difficult personality. In Jim Watson’s 1968 book, ‘The Double Helix,’ she is portrayed as a cold woman who, “might have been pretty if she had taken her glasses off and done something interesting with her hair.” You never see such comments about male scientists. Not to pick on Einstein, but he had some interesting hair!
+
+
+
+
+
+This is Aleksandra Domanović’s second solo exhibition at the gallery. Her recent major solo exhibitions include Museum Boijmans Van Beuningen, Rotterdam; Schwarz Foundation, Samos; Gallery of Modern Art, Glasgow; firstsite, Colchester; and Kunsthalle Basel. Her work has been featured in recent group exhibitions at Walker Art Center, Minneapolis; Whitechapel Gallery, London; New Museum, New York; Dallas Museum of Art; Palais de Tokyo, Paris; Ullens Center for Contemporary Art, Beijing; and Kunsthalle Vienna. She was the recipient of the 2014/5 Ars Viva prize for artists working in Germany.
+
+
+The photographs in this exhibition were taken on location at UC Davis in California by Spencer Lowell in collaboration with Aleksandra Domanović.
+

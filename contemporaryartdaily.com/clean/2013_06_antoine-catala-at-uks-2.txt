@@ -1,0 +1,7 @@
+
+Presented with a photo, a machine can determine what it is looking at. Machines can now see INSIDE images.
+Extract the physicality of objects within images (there is the object elevator inside the photo of an elevator), detect symbols (upward arrow means going up) and associate words (lift, metal, rectangle, sliding doors).
+A machine confronted with an image or a scenery now knows how to place it. It’s another step towards machines autonomy, that enables navigation, within both virtual and real world.
+If human’s unconscious is more of a factory than a theater*, how does it work in machines little electronic cogs? Image Families is an assembly line of an exhibition, an exploration to figure out what’s really inside an image.
+* Deleuze et Guattari “l’inconscient n’est pas un théâtre, mais une usine, une machine à produire”
+

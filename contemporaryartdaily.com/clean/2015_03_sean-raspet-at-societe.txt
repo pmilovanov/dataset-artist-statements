@@ -1,0 +1,52 @@
+
+1a.
+Program for Continuous Controlled Vaporization
+Chromatographic molecular separation and time-temperature based diffusion of a cross section of commercially produced substances* using HeraTherm Advanced Protocol oven† with programmable temperature increase.
+Substances (including natural and artificial flavors, cosmetics and cleaning products) are separated into their individual molecular components, each one of which has a distinct olfactory profile (or in some cases may be odorless). Each of these component molecules is vaporized and diffused into the surrounding air at a specific time within the oven sequence based on its boiling point and its interaction with a chromatographic sorbent as the oven temperature gradually rises.
+Three programmable ovens are used in an alternating sequence to fully vaporize one substance
+per hour. The same hourly oven program is used on all substances:
+(warm up to 60 °C 10 minutes prior to program initiation)
+starting temperature 60 °C
++ 4.0 °C per minute increase for 60 minutes (to 300 °C)
+hold 300 °C for 5 minutes
+(cool down)
+2014 2015, dimensions variable
+1b.
+Negative Air
+Airborne vaporized materials produced by 1a. are re-collected by an Omniaire 600V negative air
+machine with an activated carbon filter. The separated and volatized compounds are re-condensed
+onto the filter in the original ratio of the mixture prior to diffusion, transporting the formulation
+from one location to another within the space. All vaporized materials are collected onto the filter
+throughout the exhibition and the filter consists of the overall average of the component
+molecules of all vaporized formulations.
+2013 – 2015, dimensions variable; flow rate 600 cfm
+2.
+ [(+) / (-)] (cleaner) 
+2 enantiomerically opposite cleaning solutions
+2013 2014, dimensions variable; 10 L displayed for each formulation
+Cleaning schedule:
+(+) optically active version: one hour before opening, once per week on Mondays at 12 pm for all surfaces in the northeast wing of the gallery; one hour after closing for all surfaces of the northwest wing of the gallery
+(-) optically active version: one hour before opening, once per week on Mondays at 12 pm for all surfaces in the northwest wing of the gallery; one hour after closing for all surfaces of the northeast wing of the gallery
+Optically active ingredients of (+) (cleaner):
+(-)-limonene (-)-pinene (-)-carvone (-)-menthol
+(all other functional components of the mixture are achiral)
+
+
+
+3.
+Fruit Intersection Average: (Apple ( ) Pear)
+Propyl acetate, butyl acetate, isoamyl acetate, 1-butanol, pentyl acetate, 2-methyl-1-butanol, hexyl acetate, 1-hexanol, hexyl butanoate
+Fruit Intersection Average: (Pear ( ) Banana)
+Propyl acetate, 2-methylpropyl acetate, butyl acetate, 2-methyl-1-propanol, isoamyl acetate, 1- butanol, hexyl acetate, 3-methylbutyl 3-methylbutanoate
+Fruit Intersection Average: (Banana ( ) Apple)
+Ethyl acetate, 2-methylpropanol, 1-butanol, 2-methylpropyl acetate, hexanal, butyl acetate, (E)-2- hexanal, 2-methylpropyl butanoate, butyl butanoate, hexyl acetate, 3-methylbutyl butanoate, 1- hexanol
+2013 – 2014, dimensions variable; 5 litres of each formulation displayed
+4.
+(-)
+Enantiomerically‡ opposite formulation of Coca-ColaTM soft drink, e.g all the components of Coca-ColaTM, with reversed chirality, reassembled in identical proportions to the pre-existing product:
+[carbonated water (achiral), (-)-sucrose [hydrolyzed 50:50 (-)-glucose and (+)-fructose mixture], (-)-caramel color, E338 phosphoric acid (achiral), (-)-(natural and artificial flavors), caffeine (achiral)]
+2012 – 2015, dimensions variable, 100 mL displayed
+
+
+
+
